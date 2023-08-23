@@ -251,22 +251,27 @@ form input:hover{
 
 
 
-@media(max-width:322px){
+
+@media(max-width:430px){
   .me{
-    padding: 50px;
+    padding: 10px;
   }
   #meh{
-    width: 200px;
-
+    width: 150px;
   }
   .one{
-    padding: 27px;
+    padding: 20px;
   }
 
   
   .one .col-lg-6{
     padding: 10px;
   }
+
+ 
+
+
+}
 
  
 
