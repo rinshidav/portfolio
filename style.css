@@ -238,13 +238,12 @@ form .button-area {
 }
 form input{
   border: none;
-  width: 280px;
+  width: 200px;
   padding: 5px;
 }
 form input:hover{
   cursor: auto;
 }
-
 
 
 
@@ -267,11 +266,6 @@ form input:hover{
   .one .col-lg-6{
     padding: 10px;
   }
-
- 
-
-
-}
 
  
 
